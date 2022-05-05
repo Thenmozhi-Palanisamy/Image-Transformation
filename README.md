@@ -72,7 +72,7 @@ plt.imshow(scaled_img)
 plt.show()
 
 iii)Image shearing:
-```
+`
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -136,7 +136,7 @@ plt.imshow(rotated_img)
 plt.show()
 
 vi)Image Cropping:
-```
+``
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
