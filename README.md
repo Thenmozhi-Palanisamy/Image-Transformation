@@ -53,7 +53,7 @@ plt.imshow(translated_image)
 plt.show()
 
 ii) Image Scaling:
-```
+``
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -120,7 +120,7 @@ plt.imshow(reflected_img_yaxis)
 plt.show()
 
 v)Image Rotation:
-```
+`
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
