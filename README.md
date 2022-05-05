@@ -35,7 +35,7 @@ Developed By: THENMOZHI P
 Register Number:212221230116
 
 i)Image Translation:
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -53,7 +53,7 @@ plt.imshow(translated_image)
 plt.show()
 
 ii) Image Scaling:
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -72,7 +72,7 @@ plt.imshow(scaled_img)
 plt.show()
 
 iii)Image shearing:
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -98,7 +98,7 @@ plt.imshow(sheared_img_yaxis)
 plt.show()
 
 iv)Image Reflection:
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -120,7 +120,7 @@ plt.imshow(reflected_img_yaxis)
 plt.show()
 
 v)Image Rotation:
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -136,7 +136,7 @@ plt.imshow(rotated_img)
 plt.show()
 
 vi)Image Cropping:
-
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
