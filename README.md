@@ -98,7 +98,7 @@ plt.imshow(sheared_img_yaxis)
 plt.show()
 
 iv)Image Reflection:
-```
+``
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -120,7 +120,7 @@ plt.imshow(reflected_img_yaxis)
 plt.show()
 
 v)Image Rotation:
-`
+``
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
@@ -136,7 +136,7 @@ plt.imshow(rotated_img)
 plt.show()
 
 vi)Image Cropping:
-``
+```
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
