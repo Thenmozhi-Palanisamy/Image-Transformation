@@ -1,4 +1,3 @@
-## Image-Transformation
 ## Aim
 To perform image transformation such as Translation, Scaling, Shearing, Reflection, Rotation and Cropping using OpenCV and Python.
 
@@ -31,8 +30,8 @@ Step 8:
 Display all the Transformed images.
 
 ## Program:
-Developed By: THENMOZHI P
-Register Number:212221230116
+Developed By: RITIKA S
+Register Number:212221240046
 
 i)Image Translation:
 ```
