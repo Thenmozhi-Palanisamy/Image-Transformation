@@ -29,8 +29,8 @@ Using matplotlib.pyplot plot the histogram.
 
 ## Program:
 ```python
-Developed By:Manoj Choudhary V
-Register Number:212221240025
+Developed By:Mirudhula D
+Register Number:212221230060
 i)Image Translation
 import numpy as np
 import cv2
